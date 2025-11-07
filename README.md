@@ -94,6 +94,10 @@ Grafik Kuda Jaran (GKJ) adalah nama lain dari barchart atau candlestick di dunia
 </details>
 
 
+# PERMEN
+
+Hari ini Jumat 7 November 2025 saya memiliki ide, selain menggambarkan grafik seperti kuda jaran, sekarang saya menggambarkan grafik tersebut seperti permen.
+
 
 
 
